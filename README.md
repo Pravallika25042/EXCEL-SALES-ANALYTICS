@@ -19,12 +19,6 @@ Completed as part of the **Codebasics Data Analytics Job Simulation Bootcamp**.
 - [Tools & Techniques Used](#tools--techniques-used)
 - [Approach](#approach)
 - [Reports & Key Insights](#reports--key-insights)
-- [Dashboard Preview](#dashboard-preview)
-- [Repository Structure](#repository-structure)
-- [How to Use](#how-to-use)
-- [Key Learnings](#key-learnings)
-- [Contact](#contact)
-
 ---
 
 ## Business Context
