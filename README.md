@@ -1,4 +1,4 @@
-# AtliQ Hardware — Sales Analytics (Excel Job Simulation)
+# AtliQ Hardware — Sales Analytics (Excel)
 
 > End-to-end sales analytics project built in Microsoft Excel, transforming raw sales data into a structured data model and decision-ready business reports.
 
